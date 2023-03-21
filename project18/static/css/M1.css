@@ -1,0 +1,9 @@
+h1{
+    color: blueviolet;
+}
+img{
+    width:500px;
+    height: 500px;
+    position:relative;
+    left: 30%;
+}
